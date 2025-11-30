@@ -1,8 +1,10 @@
-🌿 Overview--
+🌿 Overview
+--
 
 EverGreen Real Estate is a responsive real-estate website built using HTML5 and CSS3. It includes property listings, agent profiles, blog posts, a contact form, and a modern clean UI. The site uses Flexbox, CSS Grid, and media queries to ensure proper responsiveness on all devices.
 
-⭐ Features--
+⭐ Features
+--
 
 Fully responsive layout
 
@@ -22,7 +24,8 @@ Multi-column footer
 
 CSS hover animations and transitions
 
-🛠️ Technologies Used--
+🛠️ Technologies Used
+--
 
 HTML5
 
@@ -31,8 +34,9 @@ CSS3
 Flexbox & Grid
 
 CSS Variables
+
+🧠 What I Learned
 --
-🧠 What I Learned--
 
 Structuring a complete website using semantic HTML
 

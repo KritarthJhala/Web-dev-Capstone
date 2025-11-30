@@ -51,3 +51,19 @@ Improving visual design, spacing, and UI consistency
 Adding hover effects and animations with pure CSS
 
 Managing real images and maintaining layout balance
+
+📸 Screenshots
+--
+<img width="1919" height="957" alt="Screenshot 2025-11-30 155635" src="https://github.com/user-attachments/assets/ce796e28-91ca-4ed8-9883-2dfbda259a19" />
+<img width="1919" height="957" alt="Screenshot 2025-11-30 155646" src="https://github.com/user-attachments/assets/139b409e-7d12-4a83-be28-9f4f66bcdc63" />
+<img width="1919" height="959" alt="Screenshot 2025-11-30 155700" src="https://github.com/user-attachments/assets/8d6523c7-a0d6-40a3-9fca-5cfc1b2c28b1" />
+<img width="1919" height="957" alt="Screenshot 2025-11-30 155719" src="https://github.com/user-attachments/assets/1b7a2373-0fa1-4ea0-be8e-e0080439501f" />
+<img width="1919" height="957" alt="Screenshot 2025-11-30 155734" src="https://github.com/user-attachments/assets/878520a6-76e6-43d0-a393-59e1cde40b17" />
+
+
+
+
+
+
+
+
